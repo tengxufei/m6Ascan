@@ -1,0 +1,15 @@
+Package: m6Ascan
+Type: Package
+Title: scanning for m6A sites
+Version: 0.1.0
+Author: Xufei Teng
+Maintainer: Xufei Teng <tengxufei@big.ac.cn>
+Description: m6A omics data analysis
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: doParallel, GenomeInfoDb, GenomicAlignments, GenomicRanges, GenomicFeatures, DESeq2, Rcpp, RcppArmadillo
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote:6.1.1
+
+
