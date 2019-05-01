@@ -1,5 +1,5 @@
 # m6Ascan
-scanning for m6A modifications
+scanning for m6A modifications based on MeRIP-Seq data
 
 ## Install and require m6Ascan from Github
 install.packages("devtools")
